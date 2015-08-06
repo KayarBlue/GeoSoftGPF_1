@@ -1,4 +1,5 @@
 %% This script to process batches of mooring data using Matlab 2010b.
+% Uses the function moorburst.m.
 % import moor-timestamps.txt before starting.
 %
 % !!! check that CTD/YSI variable columns are correct !!! They are not
