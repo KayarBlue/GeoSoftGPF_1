@@ -1,4 +1,5 @@
-%% This script to process Mooring ADCP data. Requires Matlab 2010b with Mapping Toolbox.
+%% This script to process Mooring ADCP data. 
+% Requires Matlab 2010b with Mapping Toolbox. Uses the function stickplot.m.
 % input file is a *.MAT that includes everything under "Series Data Types"
 % and Pitch, Roll, Heading, and Battery under "Anc Data Types". This is
 % exported from the *.000 datafile with software WinADCP. 
