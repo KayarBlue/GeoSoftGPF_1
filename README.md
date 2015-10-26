@@ -5,7 +5,7 @@ Software Sharing for the 27 Jan - 18 May 2011 subset of the DISL FOCAL mooring d
 The dataset can be found here: http://dx.doi.org/10.5281/zenodo.18943. 
 Software is released under GNU GPL 3.0 license. 
 Software (except stickplot.m) were written in 2011 by Mimi Tzeng (orcid.org/0000-0001-9396-3217), Dauphin Island Sea Lab, Kyeong Park Lab, with funding from the Fisheries Oceanography in Coastal Alabama (FOCAL) program.
-The workflow that connects all of these scripts is illustrated in this diagram: http://dx.doi.org/10.5281/zenodo.20656. It will be described in an upcoming paper: Tzeng, M.W., K. Park, and B. Dzonwkowski. (in prep). A Subset of a Time-Series of Hydrographic and Current Data from a Permanent Moored Station Outside Mobile Bay, Alabama (27 Jan to 18 May 2011). AGU Earth and Space Science.
+The workflow that connects all of these scripts is illustrated in this diagram: http://dx.doi.org/10.5281/zenodo.20656. It will be described in an upcoming paper: Tzeng, M.W., B. Dzonwkowski, and K. Park. (in prep). Data Processing for a Small-Scale Long-Term Coastal Ocean Observing System Near Mobile Bay, Alabama. AGU Earth and Space Science.
 
 Software includes: 
 1. mooring_all.pl - a perl script for preparing Seabird and YSI data files for import into Matlab (full metadata: http://ontosoft.org/portal/#browse/Software-uruml4oqtqp2). Step D in the workflow.
